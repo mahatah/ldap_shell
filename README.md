@@ -1,4 +1,4 @@
-# LDAP shell
+# LDAP shell (forked)
 This project is a fork of ldap_shell from Impacket. It provides an interactive shell for Active Directory enumeration and manipulation via LDAP/LDAPS protocols, making it useful for both system administrators and security professionals.
 
 
